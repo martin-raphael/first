@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668875660 source:c:\users\igadw\documents\igadwabrian.work\saturday\preprocessor\test.c
+
+1668960128 source:c:\users\igadw\documents\igadwabrian.work\saturday\preprocessor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
